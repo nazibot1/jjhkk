@@ -12,4 +12,4 @@ client.music.start(client, {
   youtubeKey: "YouTubeAPIKeyHere" // Set the api key used for YouTube.
 });
 
-client.login("token"); // Connect the bot.
+client.login("NDk0NjE0NTI5NDE4OTg1NDcy.DsoQ0w.E56IvTLD5Ek8RTIeu3jKUyu3w30"); // Connect the bot.
